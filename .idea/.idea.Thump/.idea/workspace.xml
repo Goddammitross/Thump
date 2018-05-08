@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="36528bc2-e16c-468e-aa37-151039aee776" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="UnityChanControlScriptWithRgidBody.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/UnityChan/Scripts/UnityChanControlScriptWithRgidBody.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1155">
+              <caret line="96" column="43" lean-forward="true" selection-start-line="96" selection-start-column="43" selection-end-line="96" selection-end-column="43" />
+              <folding>
+                <marker date="1525630710561" expanded="true" signature="0:92" ph="/* Mecanimのアニメーションデータが、原点で移動しない場合の Rigidbody付きコントローラ ... */" />
+                <marker date="1525630710561" expanded="false" signature="99:137" ph="..." />
+                <marker date="1525630710561" expanded="true" signature="342:6278" ph="{...}" />
+                <marker date="1525630710561" expanded="true" signature="649:680" ph="/* 以下キャラクターコントローラ用パラメタ ... */" />
+                <marker date="1525630710561" expanded="true" signature="1610:1979" ph="{...}" />
+                <marker date="1525630710561" expanded="true" signature="2050:5515" ph="{...}" />
+                <marker date="1525630710561" expanded="true" signature="2779:2826" ph="{...}" />
+                <marker date="1525630710561" expanded="true" signature="2846:2893" ph="{...}" />
+                <marker date="1525630710561" expanded="true" signature="2932:3226" ph="{...}" />
+                <marker date="1525630710561" expanded="true" signature="2934:2991" ph="/* スペースキーを入力したら ... */" />
+                <marker date="1525630710561" expanded="true" signature="3038:3222" ph="{...}" />
+                <marker date="1525630710561" expanded="true" signature="3098:3217" ph="{...}" />
+                <marker date="1525630710561" expanded="true" signature="3396:3466" ph="/* 以下、Animatorの各ステート中での処理 ... */" />
+                <marker date="1525630710561" expanded="true" signature="3512:3596" ph="{...}" />
+                <marker date="1525630710561" expanded="true" signature="3565:3592" ph="{...}" />
+                <marker date="1525630710561" expanded="true" signature="3599:3638" ph="/* JUMP中の処理 ... */" />
+                <marker date="1525630710561" expanded="true" signature="3688:4925" ph="{...}" />
+                <marker date="1525630710561" expanded="true" signature="3822:4921" ph="{...}" />
+                <marker date="1525630710561" expanded="true" signature="3874:4841" ph="{...}" />
+                <marker date="1525630710561" expanded="true" signature="3881:4017" ph="/* 以下JUMP00アニメーションについているカーブJumpHeightとGravityControl ... */" />
+                <marker date="1525630710561" expanded="true" signature="4483:4835" ph="{...}" />
+                <marker date="1525630710561" expanded="true" signature="4536:4746" ph="{...}" />
+                <marker date="1525630710561" expanded="true" signature="4746:4828" ph="{...}" />
+                <marker date="1525630710561" expanded="true" signature="4928:4967" ph="/* IDLE中の処理 ... */" />
+                <marker date="1525630710561" expanded="true" signature="5018:5208" ph="{...}" />
+                <marker date="1525630710561" expanded="true" signature="5074:5101" ph="{...}" />
+                <marker date="1525630710561" expanded="true" signature="5166:5204" ph="{...}" />
+                <marker date="1525630710561" expanded="true" signature="5211:5250" ph="/* REST中の処理 ... */" />
+                <marker date="1525630710561" expanded="true" signature="5301:5512" ph="{...}" />
+                <marker date="1525630710561" expanded="true" signature="5309:5434" ph="/* cameraObject.SendMessage(&quot;setCameraPositionFrontView&quot;);&#9;&#9;// カメラを正面に切り替える ... */" />
+                <marker date="1525630710561" expanded="true" signature="5465:5508" ph="{...}" />
+                <marker date="1525630710561" expanded="true" signature="5530:6125" ph="{...}" />
+                <marker date="1525630710561" expanded="true" signature="6176:6276" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UnityChan/Scripts/UnityChanControlScriptWithRgidBody.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/UnityChan/Scripts/UnityChanControlScriptWithRgidBody.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="240" />
+    <option name="y" value="131" />
+    <option name="width" value="1440" />
+    <option name="height" value="788" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Thump" type="483dac07:UnityExplorerNode$Root" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+      </pane>
+      <pane id="SolutionExplorer">
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36528bc2-e16c-468e-aa37-151039aee776" name="Default" comment="" />
+      <created>1525629790724</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1525629790724</updated>
+      <workItem from="1525629792096" duration="1024000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1024000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" />
+      <window_info anchor="right" id="Database" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" isUnityUI="false" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <marker date="1524864053000" expanded="false" signature="6:148" ph="..." />
+            <marker date="1524864053000" expanded="true" signature="202:9547" ph="{...}" />
+            <marker date="1524864053000" expanded="true" signature="357:9545" ph="{...}" />
+            <marker date="1524864053000" expanded="true" signature="2199:2707" ph="{...}" />
+            <marker date="1524864053000" expanded="true" signature="2782:3520" ph="{...}" />
+            <marker date="1524864053000" expanded="true" signature="2922:3024" ph="{...}" />
+            <marker date="1524864053000" expanded="true" signature="3100:3289" ph="{...}" />
+            <marker date="1524864053000" expanded="true" signature="3378:3440" ph="{...}" />
+            <marker date="1524864053000" expanded="true" signature="3562:3706" ph="{...}" />
+            <marker date="1524864053000" expanded="true" signature="3743:5237" ph="{...}" />
+            <marker date="1524864053000" expanded="true" signature="4577:4881" ph="{...}" />
+            <marker date="1524864053000" expanded="true" signature="4673:4867" ph="{...}" />
+            <marker date="1524864053000" expanded="true" signature="4898:5012" ph="{...}" />
+            <marker date="1524864053000" expanded="true" signature="5276:5376" ph="{...}" />
+            <marker date="1524864053000" expanded="true" signature="5430:5943" ph="{...}" />
+            <marker date="1524864053000" expanded="true" signature="5543:5745" ph="{...}" />
+            <marker date="1524864053000" expanded="true" signature="5791:5843" ph="{...}" />
+            <marker date="1524864053000" expanded="true" signature="5986:6575" ph="{...}" />
+            <marker date="1524864053000" expanded="true" signature="6047:6099" ph="{...}" />
+            <marker date="1524864053000" expanded="true" signature="6112:6208" ph="/* pick &amp; play a random footstep sound from the array, ... */" />
+            <marker date="1524864053000" expanded="true" signature="6632:7554" ph="{...}" />
+            <marker date="1524864053000" expanded="true" signature="6712:6764" ph="{...}" />
+            <marker date="1524864053000" expanded="true" signature="6862:7276" ph="{...}" />
+            <marker date="1524864053000" expanded="true" signature="7293:7478" ph="{...}" />
+            <marker date="1524864053000" expanded="true" signature="7603:8870" ph="{...}" />
+            <marker date="1524864053000" expanded="true" signature="7871:8018" ph="/* On standalone builds, walk/run speed is modified by a key press. ... */" />
+            <marker date="1524864053000" expanded="true" signature="8374:8439" ph="{...}" />
+            <marker date="1524864053000" expanded="true" signature="8453:8589" ph="/* handle speed change to give an fov kick ... */" />
+            <marker date="1524864053000" expanded="true" signature="8699:8860" ph="{...}" />
+            <marker date="1524864053000" expanded="true" signature="8906:8996" ph="{...}" />
+            <marker date="1524864053000" expanded="true" signature="9070:9539" ph="{...}" />
+            <marker date="1524864053000" expanded="true" signature="9270:9322" ph="{...}" />
+            <marker date="1524864053000" expanded="true" signature="9373:9425" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/UnityChan/Scripts/UnityChanControlScriptWithRgidBody.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1155">
+          <caret line="96" column="43" lean-forward="true" selection-start-line="96" selection-start-column="43" selection-end-line="96" selection-end-column="43" />
+          <folding>
+            <marker date="1525630710561" expanded="true" signature="0:92" ph="/* Mecanimのアニメーションデータが、原点で移動しない場合の Rigidbody付きコントローラ ... */" />
+            <marker date="1525630710561" expanded="false" signature="99:137" ph="..." />
+            <marker date="1525630710561" expanded="true" signature="342:6278" ph="{...}" />
+            <marker date="1525630710561" expanded="true" signature="649:680" ph="/* 以下キャラクターコントローラ用パラメタ ... */" />
+            <marker date="1525630710561" expanded="true" signature="1610:1979" ph="{...}" />
+            <marker date="1525630710561" expanded="true" signature="2050:5515" ph="{...}" />
+            <marker date="1525630710561" expanded="true" signature="2779:2826" ph="{...}" />
+            <marker date="1525630710561" expanded="true" signature="2846:2893" ph="{...}" />
+            <marker date="1525630710561" expanded="true" signature="2932:3226" ph="{...}" />
+            <marker date="1525630710561" expanded="true" signature="2934:2991" ph="/* スペースキーを入力したら ... */" />
+            <marker date="1525630710561" expanded="true" signature="3038:3222" ph="{...}" />
+            <marker date="1525630710561" expanded="true" signature="3098:3217" ph="{...}" />
+            <marker date="1525630710561" expanded="true" signature="3396:3466" ph="/* 以下、Animatorの各ステート中での処理 ... */" />
+            <marker date="1525630710561" expanded="true" signature="3512:3596" ph="{...}" />
+            <marker date="1525630710561" expanded="true" signature="3565:3592" ph="{...}" />
+            <marker date="1525630710561" expanded="true" signature="3599:3638" ph="/* JUMP中の処理 ... */" />
+            <marker date="1525630710561" expanded="true" signature="3688:4925" ph="{...}" />
+            <marker date="1525630710561" expanded="true" signature="3822:4921" ph="{...}" />
+            <marker date="1525630710561" expanded="true" signature="3874:4841" ph="{...}" />
+            <marker date="1525630710561" expanded="true" signature="3881:4017" ph="/* 以下JUMP00アニメーションについているカーブJumpHeightとGravityControl ... */" />
+            <marker date="1525630710561" expanded="true" signature="4483:4835" ph="{...}" />
+            <marker date="1525630710561" expanded="true" signature="4536:4746" ph="{...}" />
+            <marker date="1525630710561" expanded="true" signature="4746:4828" ph="{...}" />
+            <marker date="1525630710561" expanded="true" signature="4928:4967" ph="/* IDLE中の処理 ... */" />
+            <marker date="1525630710561" expanded="true" signature="5018:5208" ph="{...}" />
+            <marker date="1525630710561" expanded="true" signature="5074:5101" ph="{...}" />
+            <marker date="1525630710561" expanded="true" signature="5166:5204" ph="{...}" />
+            <marker date="1525630710561" expanded="true" signature="5211:5250" ph="/* REST中の処理 ... */" />
+            <marker date="1525630710561" expanded="true" signature="5301:5512" ph="{...}" />
+            <marker date="1525630710561" expanded="true" signature="5309:5434" ph="/* cameraObject.SendMessage(&quot;setCameraPositionFrontView&quot;);&#9;&#9;// カメラを正面に切り替える ... */" />
+            <marker date="1525630710561" expanded="true" signature="5465:5508" ph="{...}" />
+            <marker date="1525630710561" expanded="true" signature="5530:6125" ph="{...}" />
+            <marker date="1525630710561" expanded="true" signature="6176:6276" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
